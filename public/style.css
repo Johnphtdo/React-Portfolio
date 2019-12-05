@@ -1,0 +1,44 @@
+:root {
+  --primary: #172548;
+  --primary-alt: #777777;
+  --primary-font: #ffffff;
+}
+
+body,
+#root,
+.App {
+  min-height: 100vh;
+}
+body i {
+  font-family: "FontAwesome";
+  font-style: normal;
+}
+.App {
+  display: flex;
+  flex-flow: column;
+  
+}
+.auth-image{
+    max-width: 300px;
+    max-height: 300px;
+}
+.project-image{
+    max-width: 300px;
+}
+.port-images{
+    max-width: 600px;
+    max-height: 300px;
+}
+.navbar {
+    background-color: var(--primary);
+    color: var(--primary-font);
+  }
+.content-wrap{
+    padding-top: 5%;
+    
+}
+.bg-img{
+background-image: url("../src/images/coding-website-background.jpg");
+background-size: cover;
+background-position: center;
+}
