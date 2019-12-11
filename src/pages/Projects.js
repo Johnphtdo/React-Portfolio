@@ -4,15 +4,15 @@ import { CardHeader, CardBody } from "../components/Card";
 function Projects() {
   return (
     <div className="container">
-      <div className = "content-wrap bg-img">
+      <div className = "content-wrap">
         <div className="row">
           <div className="col-12">
-            <h1>Portfolio</h1>
+            <h1 className = "title">Portfolio</h1>
             </div>
           </div>
           <div className="row">
             <div className="col-12">
-              <h2>Group Projects</h2>
+              <h2 className = "title">Group Projects</h2>
             </div>
             
             <div className="col-4">
@@ -74,7 +74,7 @@ function Projects() {
           <br></br>
           <div className="row">
             <div className="col-12">
-              <h2>Solo Projects</h2>
+              <h2 className = "title">Solo Projects</h2>
             </div>
             <div className="col-4">
               <div className="card align-items-stretch">

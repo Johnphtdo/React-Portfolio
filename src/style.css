@@ -18,6 +18,8 @@ body i {
   flex-flow: column;
   
 }
+footer { margin-top: auto; }
+
 .auth-image{
     max-width: 300px;
     max-height: 300px;
@@ -35,10 +37,24 @@ body i {
   }
 .content-wrap{
     padding-top: 5%;
-    
+    padding-bottom: 5%;
+}
+.title ,.bio {
+  color: var(--primary-font);
+}
+.project-image{
+  padding-bottom: 5%;
+}
+.github-link{
+  color: var(--primary);
 }
 .bg-img{
 background-image: url("../src/images/coding-website-background.jpg");
 background-size: cover;
-background-position: center;
+background-position: center bottom;
+}
+.footer{
+  background-color: var(--primary);
+  color: var(--primary-font);
+  text-align: center;
 }
