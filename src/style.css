@@ -48,6 +48,9 @@ footer { margin-top: auto; }
 .github-link{
   color: var(--primary);
 }
+.profile-link{
+  color: var(--primary-alt)
+}
 .bg-img{
 background-image: url("../src/images/coding-website-background.jpg");
 background-size: cover;
