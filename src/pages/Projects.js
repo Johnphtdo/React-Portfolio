@@ -174,7 +174,7 @@ function Projects() {
                   className="image-link"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://vast-cliffs-60334.herokuapp.com/"
+                  href="https://simplyconceptual.herokuapp.com/"
                   alt="Project 3:SimplyConceptual"
                 >
                   <img
