@@ -9,7 +9,7 @@ class Navbar extends React.Component {
     const { match, location } = this.props;
     console.log(match);
     return (
-      <nav className="navbar navbar-dark navbar-expand-lg">
+      <nav className="navbar navbar-dark navbar-expand">
         <div className="container">
           {/* <a className="navbar-brand" href="/">
             Navbar w/ text

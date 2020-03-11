@@ -20,14 +20,14 @@ function About() {
           </div>
         </div>
         <div className="row">
-          <div className="col-6">
+          <div className="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <img
               className="port-images"
               src={require("../images/Portfolio V1.png")}
               alt="Portfolio Version 1"
             ></img>
           </div>
-          <div className="col-6">
+          <div className="col-xl-6 col-lg-12 col-md-12 col-sm-1">
             <img
               className="port-images"
               src={require("../images/Projects V1.png")}
@@ -42,14 +42,14 @@ function About() {
           </div>
         </div>
         <div className="row">
-          <div className="col-6">
+          <div className="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <img
               className="port-images"
               src={require("../images/Portfolio V2.png")}
               alt="Portfolio Version 2"
             ></img>
           </div>
-          <div className="col-6">
+          <div className="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <img
               className="port-images"
               src={require("../images/Projects V2.png")}

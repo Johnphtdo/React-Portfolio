@@ -15,7 +15,7 @@ function Projects() {
             <h2 className="title">Group Projects</h2>
           </div>
 
-          <div className="col-4">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
             <div className="card align-items-stretch">
               <CardHeader>Project 1: Bouffage</CardHeader>
               <CardBody>
@@ -95,7 +95,7 @@ function Projects() {
               </CardBody>
             </div>
           </div>
-          <div className="col-4">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
             <div className="card align-items-stretch">
               <CardHeader>Project 2: SomeRecipes</CardHeader>
               <CardBody>
@@ -166,7 +166,7 @@ function Projects() {
               </CardBody>
             </div>
           </div>
-          <div className="col-4">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
             <div className="card align-items-stretch">
               <CardHeader>Project 3: Simply Conceptual</CardHeader>
               <CardBody>
@@ -246,7 +246,7 @@ function Projects() {
           <div className="col-12">
             <h2 className="title">Solo Projects</h2>
           </div>
-          <div className="col-4">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
             <div className="card align-items-stretch">
               <CardHeader>Word Guess Game</CardHeader>
               <CardBody>
@@ -278,7 +278,7 @@ function Projects() {
               </CardBody>
             </div>
           </div>
-          <div className="col-4">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
             <div className="card align-items-stretch">
               <CardHeader>Trivia Game</CardHeader>
               <CardBody>
@@ -311,7 +311,7 @@ function Projects() {
               </CardBody>
             </div>
           </div>
-          <div className="col-4">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
             <div className="card align-items-stretch">
               <CardHeader>Google Book Search</CardHeader>
               <CardBody>
