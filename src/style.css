@@ -2,6 +2,7 @@
   --primary: #172548;
   --primary-alt: #777777;
   --primary-font: #ffffff;
+  --bright: #fd8904;
 }
 
 body,
@@ -49,7 +50,7 @@ footer { margin-top: auto; }
   color: var(--primary);
 }
 .profile-link{
-  color: var(--primary-alt)
+  color: var(--bright)
 }
 .bg-img{
 background-image: url("../src/images/coding-website-background.jpg");
