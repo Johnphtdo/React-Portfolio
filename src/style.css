@@ -22,8 +22,7 @@ body i {
 footer { margin-top: auto; }
 
 .auth-image{
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 100%;
 }
 .project-image{
     max-width: 100%;
