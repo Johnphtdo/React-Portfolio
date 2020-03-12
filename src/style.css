@@ -28,8 +28,7 @@ footer { margin-top: auto; }
     max-width: 100%;
 }
 .port-images{
-    max-width: 600px;
-    max-height: 300px;
+    max-width: 100%;
 }
 .navbar {
     background-color: var(--primary);
