@@ -36,7 +36,11 @@ function Projects() {
                   The problem that we focused on in this project was people
                   unable to find recipes that will help with their weight loss
                   or with their dietary or health concerns and for recipes to
-                  make drinks at home.
+                  make drinks at home. 
+
+                  *Access to this API has expired and searching for food will not work. Cards will still 
+                  append to the page but will have no information to display.
+
                 </p>
                 <hr></hr>
                 <p>
