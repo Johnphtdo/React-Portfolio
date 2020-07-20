@@ -39,7 +39,10 @@ function Projects() {
                   make drinks at home.
                 </p>
                 <hr></hr>
-                <p>Technolgies used: HTML5, CSS3, Bootstrap 4, JavaScript, and jQuery.</p>
+                <p>
+                  Technolgies used: HTML5, CSS3, Bootstrap 4, JavaScript, and
+                  jQuery.
+                </p>
                 <ul>
                   <li>
                     <a
@@ -120,7 +123,10 @@ function Projects() {
                   post into the API with their recipes.
                 </p>
                 <hr></hr>
-                <p>Technolgies used: HTML5, CSS3, Bootstrap 4, JavaScript, jQuery, Sequelize, MongoDB, Handlebars, and bcrypt. </p>
+                <p>
+                  Technolgies used: HTML5, CSS3, Bootstrap 4, JavaScript,
+                  jQuery, Sequelize, MongoDB, Handlebars, and bcrypt.{" "}
+                </p>
                 <ul>
                   <li>
                     <a
@@ -189,11 +195,12 @@ function Projects() {
                   we wanted to address was that some development concepts were
                   hard to grasp and understand, therefore we created lessons
                   that explained it in simpler terms.
-                  
-
                 </p>
                 <hr></hr>
-                  <p>Technolgies used: HTML5, CSS3, Bootstrap 4, JavaScript, MongoDB, bcrypt, and React. </p>
+                <p>
+                  Technolgies used: HTML5, CSS3, Bootstrap 4, JavaScript,
+                  MongoDB, bcrypt, and React.{" "}
+                </p>
                 <ul>
                   <li>
                     <a
@@ -237,7 +244,6 @@ function Projects() {
                   </li>
                 </ul>
               </CardBody>
-              
             </div>
           </div>
         </div>
@@ -268,13 +274,13 @@ function Projects() {
                   powered by JavaScript Code.
                 </p>
                 <a
-                      className="github-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href="https://github.com/Johnphtdo/Word-Guess-Game"
-                    >
-                      GitHub Repository
-                    </a>
+                  className="github-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Johnphtdo/Word-Guess-Game"
+                >
+                  GitHub Repository
+                </a>
               </CardBody>
             </div>
           </div>
@@ -301,13 +307,13 @@ function Projects() {
                   compare user input with correct answers to tally up a score.
                 </p>
                 <a
-                      className="github-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href="https://github.com/Johnphtdo/TriviaGame"
-                    >
-                      GitHub Repository
-                    </a>
+                  className="github-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Johnphtdo/TriviaGame"
+                >
+                  GitHub Repository
+                </a>
               </CardBody>
             </div>
           </div>
@@ -334,13 +340,49 @@ function Projects() {
                   review for later.
                 </p>
                 <a
-                      className="github-link"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      href="https://github.com/Johnphtdo/Google-Book-Search"
-                    >
-                      GitHub Repository
-                    </a>
+                  className="github-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Johnphtdo/Google-Book-Search"
+                >
+                  GitHub Repository
+                </a>
+              </CardBody>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-xl-4 col-lg-12 col-md-12 col-sm-12">
+            <div className="card align-items-stretch">
+              <CardHeader>UTA Lambda Phi Epsilon's Page</CardHeader>
+              <CardBody>
+                <a
+                  className="image-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://johnphtdo.github.io/LPE_template/"
+                  alt="UTA Lambda"
+                >
+                  <img
+                    className="project-image img-fluid"
+                    src={require("../images/UTA-LPHIE.png")}
+                    alt="UTA Lambda"
+                  ></img>
+                </a>
+                <p>
+                  This Project was created with React, Node, Express, and
+                  MongoDB. The website was intended to be used by the Fraternity
+                  Lambda Phi Epsilon. It allows users to access their webpage
+                  for information and to search their members that are listed in MongoDB.
+                </p>
+                <a
+                  className="github-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href="https://github.com/Johnphtdo/UTA_Lambda_Phi_Epsilon"
+                >
+                  GitHub Repository
+                </a>
               </CardBody>
             </div>
           </div>

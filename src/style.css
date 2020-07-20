@@ -19,7 +19,7 @@ body i {
   flex-flow: column;
   
 }
-footer { margin-top: auto; }
+
 
 .auth-image{
     max-width: 100%;
@@ -52,6 +52,7 @@ footer { margin-top: auto; }
 }
 .bg-img{
 background-image: url("../src/images/coding-website-background.jpg");
+max-width: 100%;
 background-size: cover;
 background-position: center bottom;
 }
@@ -59,4 +60,8 @@ background-position: center bottom;
   background-color: var(--primary);
   color: var(--primary-font);
   text-align: center;
+}
+
+.row {
+  margin-bottom: 2rem;
 }
