@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.7.13",
+    "mongoose": "^5.13.15",
     "path": "^0.12.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
